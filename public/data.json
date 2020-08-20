@@ -1,0 +1,185 @@
+{
+    "matchesPlayedPerYear": {
+        "2008": 58,
+        "2009": 57,
+        "2010": 60,
+        "2011": 73,
+        "2012": 74,
+        "2013": 76,
+        "2014": 60,
+        "2015": 59,
+        "2016": 60,
+        "2017": 59,
+        "2018": 60,
+        "2019": 60
+    },
+    "matchWinEachTeamAllYear": {
+        "Sunrisers Hyderabad": 58,
+        "Rising Pune Supergiant": 10,
+        "Kolkata Knight Riders": 92,
+        "Kings XI Punjab": 82,
+        "Royal Challengers Bangalore": 84,
+        "Mumbai Indians": 109,
+        "Delhi Daredevils": 67,
+        "Gujarat Lions": 13,
+        "Chennai Super Kings": 100,
+        "Rajasthan Royals": 75,
+        "Deccan Chargers": 29,
+        "Pune Warriors": 12,
+        "Kochi Tuskers Kerala": 6,
+        "": 4,
+        "Rising Pune Supergiants": 5,
+        "Delhi Capitals": 10
+    },
+    "extaRunsByEachTeamIn2016": {
+        "Rising Pune Supergiants": 108,
+        "Mumbai Indians": 102,
+        "Kolkata Knight Riders": 122,
+        "Delhi Daredevils": 106,
+        "Gujarat Lions": 98,
+        "Kings XI Punjab": 100,
+        "Sunrisers Hyderabad": 107,
+        "Royal Challengers Bangalore": 156
+    },
+    "top10EconomicalBowlers2015": {
+        "RN ten Doeschate": 4,
+        "J Yadav": 4.142857142857143,
+        "V Kohli": 5.454545454545454,
+        "R Ashwin": 5.846153846153846,
+        "S Nadeem": 6.142857142857143,
+        "Parvez Rasool": 6.2,
+        "MC Henriques": 6.2781456953642385,
+        "Z Khan": 6.410958904109589,
+        "MA Starc": 6.767441860465116,
+        "GB Hogg": 6.857142857142857
+    },
+    "just": {
+        "2008": {
+            "Chennai Super Kings": 9,
+            "Deccan Chargers": 2,
+            "Delhi Daredevils": 7,
+            "Kings XI Punjab": 10,
+            "Kolkata Knight Riders": 6,
+            "Mumbai Indians": 7,
+            "Rajasthan Royals": 13,
+            "Royal Challengers Bangalore": 4
+        },
+        "2009": {
+            "Chennai Super Kings": 8,
+            "Deccan Chargers": 9,
+            "Delhi Daredevils": 10,
+            "Kings XI Punjab": 7,
+            "Kolkata Knight Riders": 3,
+            "Mumbai Indians": 5,
+            "Rajasthan Royals": 6,
+            "Royal Challengers Bangalore": 9
+        },
+        "2010": {
+            "Chennai Super Kings": 9,
+            "Deccan Chargers": 8,
+            "Delhi Daredevils": 7,
+            "Kings XI Punjab": 4,
+            "Kolkata Knight Riders": 7,
+            "Mumbai Indians": 11,
+            "Rajasthan Royals": 6,
+            "Royal Challengers Bangalore": 8
+        },
+        "2011": {
+            "": 1,
+            "Chennai Super Kings": 11,
+            "Deccan Chargers": 6,
+            "Delhi Daredevils": 4,
+            "Kings XI Punjab": 7,
+            "Kochi Tuskers Kerala": 6,
+            "Kolkata Knight Riders": 8,
+            "Mumbai Indians": 10,
+            "Pune Warriors": 4,
+            "Rajasthan Royals": 6,
+            "Royal Challengers Bangalore": 10
+        },
+        "2012": {
+            "Chennai Super Kings": 10,
+            "Deccan Chargers": 4,
+            "Delhi Daredevils": 11,
+            "Kings XI Punjab": 8,
+            "Kolkata Knight Riders": 12,
+            "Mumbai Indians": 10,
+            "Pune Warriors": 4,
+            "Rajasthan Royals": 7,
+            "Royal Challengers Bangalore": 8
+        },
+        "2013": {
+            "Chennai Super Kings": 12,
+            "Delhi Daredevils": 3,
+            "Kings XI Punjab": 8,
+            "Kolkata Knight Riders": 6,
+            "Mumbai Indians": 13,
+            "Pune Warriors": 4,
+            "Rajasthan Royals": 11,
+            "Royal Challengers Bangalore": 9,
+            "Sunrisers Hyderabad": 10
+        },
+        "2014": {
+            "Chennai Super Kings": 10,
+            "Delhi Daredevils": 2,
+            "Kings XI Punjab": 12,
+            "Kolkata Knight Riders": 11,
+            "Mumbai Indians": 7,
+            "Rajasthan Royals": 7,
+            "Royal Challengers Bangalore": 5,
+            "Sunrisers Hyderabad": 6
+        },
+        "2015": {
+            "": 2,
+            "Chennai Super Kings": 10,
+            "Delhi Daredevils": 5,
+            "Kings XI Punjab": 3,
+            "Kolkata Knight Riders": 7,
+            "Mumbai Indians": 10,
+            "Rajasthan Royals": 7,
+            "Royal Challengers Bangalore": 8,
+            "Sunrisers Hyderabad": 7
+        },
+        "2016": {
+            "Delhi Daredevils": 7,
+            "Gujarat Lions": 9,
+            "Kings XI Punjab": 4,
+            "Kolkata Knight Riders": 8,
+            "Mumbai Indians": 7,
+            "Rising Pune Supergiants": 5,
+            "Royal Challengers Bangalore": 9,
+            "Sunrisers Hyderabad": 11
+        },
+        "2017": {
+            "Delhi Daredevils": 6,
+            "Gujarat Lions": 4,
+            "Kings XI Punjab": 7,
+            "Kolkata Knight Riders": 9,
+            "Mumbai Indians": 12,
+            "Rising Pune Supergiant": 10,
+            "Royal Challengers Bangalore": 3,
+            "Sunrisers Hyderabad": 8
+        },
+        "2018": {
+            "Chennai Super Kings": 11,
+            "Delhi Daredevils": 5,
+            "Kings XI Punjab": 6,
+            "Kolkata Knight Riders": 9,
+            "Mumbai Indians": 6,
+            "Rajasthan Royals": 7,
+            "Royal Challengers Bangalore": 6,
+            "Sunrisers Hyderabad": 10
+        },
+        "2019": {
+            "": 1,
+            "Chennai Super Kings": 10,
+            "Delhi Capitals": 10,
+            "Kings XI Punjab": 6,
+            "Kolkata Knight Riders": 6,
+            "Mumbai Indians": 11,
+            "Rajasthan Royals": 5,
+            "Royal Challengers Bangalore": 5,
+            "Sunrisers Hyderabad": 6
+        }
+    }
+}

@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    background-color: aqua;
+  }
+  body h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic',sans-serif;
+  }
+  
+  #matches-played-per-year
+  {
+    min-width: 310px; 
+    height: 400px; 
+    margin: 50px auto;
+    border: solid red;
+  }
+  #matches-won-by-each-team-all-year
+  {
+    min-width: 310px; 
+    height: 400px; 
+    margin: 50px auto;
+    border: solid green;
+  }
+  #extra-run-conceded-by-each-team-in-2016
+  {
+    min-width: 310px; 
+    height: 400px; 
+    margin: 50px auto;
+    border: solid yellow;
+  }
+  #top-10-economical-bowler-2015
+  {
+    min-width: 310px; 
+    height: 400px; 
+    margin: 50px auto;
+    border: solid blueviolet;
+  }
+  #just-wins
+  {
+    min-width: 310px; 
+    height: 400px; 
+    margin: 50px auto;
+    border: solid black;
+  }
+  
